@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m Currently Learning **Mern Stack**
+- 👯 I’m Currently Working on  **Mern Stack**
 
 - 🤝 Asked me About **MERN, Web Devlopement**
 
