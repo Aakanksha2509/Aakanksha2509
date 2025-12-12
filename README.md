@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aakanksha Birari</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakanksha2509&label=Profile%20views&color=0e75b6&style=flat" alt="aakanksha2509" /> </p>
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Podcast Streaming App**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Kubrnetes**
 
-- 👯 I’m Currently Working on  **Mern Stack**
+- 👯 I’m Currently Working on  **Devops Project(GitOps-Driven Kubernetes Deployment Pipeline (Jenkins + ArgoCD))**
 
-- 🤝 Asked me About **MERN, Web Devlopement**
+- 🤝 Asked me About **Git, Github, linux, docker, Jenkins, k8s, Grafana, Ansible**
 
-- 💬 Ask me about **vue, react.js**
+- 💬 Ask me about **AWS**
 
 - 📫 How to reach me **aakankshab2509@gmail.com**
 
