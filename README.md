@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/aakanksha birari" target="blank"><img src="https://img.shields.io/twitter/follow/aakanksha birari?logo=twitter&style=for-the-badge" alt="aakanksha birari" /></a> </p>
 
-- 🔭 I’m currently working on **Podcast Streaming App**
 
-- 🌱 I’m currently learning **Kubrnetes**
+- 🌱 I’m currently learning **Devops with agentic AI**
 
 - 👯 I’m Currently Working on  **Devops Project(GitOps-Driven Kubernetes Deployment Pipeline (Jenkins + ArgoCD))**
 
